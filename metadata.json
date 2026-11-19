@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum - Système de Gestion de Bibliothèque",
+  "description": "Plateforme complète de gestion de bibliothèque : catalogue, gestion des exemplaires, prêts, retours, adhérents et statistiques.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
